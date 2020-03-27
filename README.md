@@ -1,3 +1,3 @@
 # mean-corona-svg
-mean corona vrus svg
+mean corona virus svg
 
